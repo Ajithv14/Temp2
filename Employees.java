@@ -14,6 +14,7 @@ public class Employees {
         if ( N % 2 != 0  ){
             System.out.println("Weird");
         }
+        
         else {
             if ( N >= 2 && N <= 5){
                 System.out.println("Not Weird");
